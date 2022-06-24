@@ -1,6 +1,6 @@
 # demo
 
-practice session! \n
+practice session! '\n'
 god bless you
 
 ## lets get started
